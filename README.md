@@ -1,4 +1,4 @@
-Olá, meu chamo Matheus Antonio e tenho 18 anos. Sou técnico em Administração e um estudante de ADS, pela Unicsul. No momento nenhuma experiência profissional em ambas áreas. <br>
+Olá, me chamo Matheus Antonio e tenho 18 anos. Sou técnico em Administração e um estudante de ADS, pela Unicsul. No momento nenhuma experiência profissional em ambas áreas. <br>
 Progamador web iniciante, focado primeiramente em Front-end. Com mais experiência nessa área se tornar um futuro full stack.
 
 Atualmente estudando javascript e aprendendo mais em manipulação de HTML e CSS. <br>

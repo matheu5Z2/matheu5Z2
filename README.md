@@ -6,7 +6,7 @@ Possíveis próximas linguagens para aprendizagem: PHP, PYTHON E/OU JAVA.
 
 <br>
 
-<h5> Minhas redes sociais: </h5>
+<h4> Minhas redes sociais: </h4>
 
 Facebook - https://www.facebook.com/matheusantonio.costa
 

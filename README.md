@@ -1,5 +1,5 @@
-Olá, me chamo Matheus Antonio e tenho 19 anos. Sou técnico em Administração e um estudante de ADS, pela Unicsul. No momento nenhuma experiência profissional em ambas áreas. <br>
-Progamador web iniciante, focado primeiramente em Front-end. Com mais experiência nessa área se tornar um futuro full stack.
+Olá, me chamo Matheus Antonio e tenho 19 anos. Sou técnico em Administração e um estudante de ADS, pela Unicsul. No momento sou jovem aprendiz em assistente administrativo pela empresa HESE. <br>
+Sou um progamador web iniciante, focado primeiramente em Front-end. Tento mais experiência nessa área WEB, quero me tornar um futuro full stack.
 
 Atualmente estudando javascript e aprendendo mais em manipulação de HTML e CSS. <br>
 Possíveis próximas linguagens para aprendizagem: PHP, PYTHON E/OU JAVA.

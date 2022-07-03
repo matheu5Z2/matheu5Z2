@@ -1,4 +1,4 @@
-Olá, me chamo Matheus Antonio e tenho 19 anos. Sou técnico em Administração e um estudante de ADS, pela Unicsul. No momento sou jovem aprendiz em assistente administrativo pela empresa HESE. <br>
+Olá, me chamo Matheus Antonio e tenho 19 anos. Sou técnico em Administração e um estudante de ADS, pela Unicsul. Atualmente sou Auxilixar administrativo pela empresa HESE. <br>
 Sou um progamador web iniciante, focado primeiramente em Front-end. Tento mais experiência nessa área WEB, quero me tornar um futuro full stack.
 
 Atualmente estudando javascript e aprendendo mais em manipulação de HTML e CSS. <br>

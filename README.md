@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<h1> Olá meus companheiros!! </h1>
+<h2> Olá meus companheiros!! </h2>
 <p> Tenho 20 anos, moro na zona leste de São Paulo e adoro musicas, esportes e boas aventuras. </P>
 <br>
 <p> Sou um aspirante a programação, formado em ADS (Analise e Desenvolvimento de Sistemas). </p>

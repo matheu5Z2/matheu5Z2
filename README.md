@@ -13,7 +13,8 @@
 <h2> Olá meus companheiros!! </h2>
 <p> Sou um jovem de 20 anos. Moro na zona leste de São Paulo. <br>
   Me movo a músicas ♪♫ <br>
-  Adoro esportes diversos,  meu favorito desde sempre o nosso querido futebol. Corinthiano desde o nascimento <img src="https://img.icons8.com/ios/16/000000/corinthians.png"/> <br> a
+  Adoro esportes diversos,  meu favorito desde sempre o nosso querido futebol. Corinthiano desde o nascimento ![icons8-corinthians-16](https://user-images.githubusercontent.com/85374979/222990921-6823351b-b0af-4d50-b758-f4a183fd3778.png)
+ <br>
   Gosto de conhcer novos lugares e viver boas aventuras.
 </P>
 <br>

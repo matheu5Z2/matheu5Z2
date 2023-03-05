@@ -11,9 +11,9 @@
 <br>
 <br>
 <h2> Olá meus companheiros!! </h2>
-<p> Sou um jovem de 20 anos. Moro na zona leste de São Paulo.
-  Me movo a músicas ♪♫
-  Adoro esportes diversos, principal o futebol. 
+<p> Sou um jovem de 20 anos. Moro na zona leste de São Paulo. <br>
+  Me movo a músicas ♪♫ <br>
+  Adoro esportes diversos, principal o futebol. <br>
   Gosto de conhcer novos lugares e viver boas aventuras.
 </P>
 <br>

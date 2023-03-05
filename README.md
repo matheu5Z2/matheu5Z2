@@ -17,7 +17,6 @@
  <br>
   Gosto de conhcer novos lugares e viver boas aventuras.
 </P>
-<br>
 <p> Sou um aspirante a programação, formado em ADS (Análise e Desenvolvimento de Sistemas). </p>
 <p> Meus estudos são primeiramente focados na aréa de frontend e design. Curto estilizar as paginas e ver os elementos se torando algo incrível e satisfatório de ser observado assim como os efeitos durante a navagação.
 </p>

@@ -11,10 +11,14 @@
 <br>
 <br>
 <h2> Olá meus companheiros!! </h2>
-<p> Tenho 20 anos, moro na zona leste de São Paulo e adoro musicas, esportes e boas aventuras. </P>
+<p> Sou um jovem de 20 anos. Moro na zona leste de São Paulo.
+  Me movo a músicas ♪♫
+  Adoro esportes diversos, principal o futebol. 
+  Gosto de conhcer novos lugares e viver boas aventuras.
+</P>
 <br>
-<p> Sou um aspirante a programação, formado em ADS (Analise e Desenvolvimento de Sistemas). </p>
-<p> Focado primeiramente na aréa de frontend. Curto estilizar as paginas e ver os elementos se torando algo incrível e satisfatório de ser observado assim como os efeitos durante a navagação.
+<p> Sou um aspirante a programação, formado em ADS (Análise e Desenvolvimento de Sistemas). </p>
+<p> Meus estudos são primeiramente focados na aréa de frontend e design. Curto estilizar as paginas e ver os elementos se torando algo incrível e satisfatório de ser observado assim como os efeitos durante a navagação.
 </p>
 
 <h2>  </h2>

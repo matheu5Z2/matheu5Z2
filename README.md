@@ -17,11 +17,30 @@
  <br>
   Gosto de conhcer novos lugares e viver boas aventuras.
 </P>
-<p> Sou um aspirante a programação, formado em ADS (Análise e Desenvolvimento de Sistemas). </p>
-<p> Meus estudos são primeiramente focados na aréa de frontend e design. Curto estilizar as paginas e ver os elementos se torando algo incrível e satisfatório de ser observado assim como os efeitos durante a navagação.
+<p> Sou um aspirante a programação, formado em ADS (Análise e Desenvolvimento de Sistemas) e técnico em Administração. </p>
+<p> Meus estudos são primeiramente focados na aréa de frontend e após isso pretende passar para banckend, me tornando um fullstack. <br>
+Curto estilizar as paginas e ver os elementos de pouco se torando algo incrível e satisfatório de ser observado, assim como ver os efeitos durante a navagação.
 </p>
 
-<h2>  </h2>
+<h3> Tecnologias e Ferramentas </h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+<h3> Conhecimentos Básicos à serem melhorados </h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<h3> Estudando </h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<br>
 
 <div> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheu5Z2&layout=compact&langs_count=7&theme=dracula"/>

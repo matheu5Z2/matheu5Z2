@@ -33,7 +33,7 @@ Curto estilizar as paginas e ver os elementos de pouco se torando algo incrível
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-php-plain colored"></i>
 
 <h3> Estudando </h3>
 

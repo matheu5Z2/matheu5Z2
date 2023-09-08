@@ -18,8 +18,8 @@
   Gosto de conhcer novos lugares e viver boas aventuras.
 </P>
 <p> Sou um aspirante a programação, formado em ADS (Análise e Desenvolvimento de Sistemas) e técnico em Administração. </p>
-<p> Meus estudos são primeiramente focados na aréa de frontend e após isso pretende passar para banckend, me tornando um fullstack. <br>
-Curto estilizar as paginas e ver os elementos de pouco se torando algo incrível e satisfatório de ser observado, assim como ver os efeitos durante a navagação.
+<p> Meus estudos são primeiramente focados na aréa de frontend e após isso pretendo passar para banckend, me tornando um fullstack. <br>
+Curto estilizar as paginas e ver os elementos de pouco se torando algo incrível e satisfatório de ser observado, assim como ver os efeitos durante a navegação.
 </p>
 
 <br>
